@@ -2,6 +2,8 @@
 
 # 3D Custom Designer  
 
+![3D Custom Designer Screenshot](https://m0nishkumar.github.io/portfolio//projectImages/pimage4.png)  
+
 A 3D customization platform where users can design and personalize T-shirts, pants, and shoes in real time. With the integration of the **Google Image Search API**, users can search for images and instantly apply them to their designs with a single click. Built using **React.js**, this project provides a highly interactive and immersive user experience.  
 
 ## Features  
@@ -49,9 +51,6 @@ A 3D customization platform where users can design and personalize T-shirts, pan
 5. Open the application in your browser:  
    - Navigate to `http://localhost:3000`  
 
-## Screenshot  
-
-![3D Custom Designer Screenshot](https://m0nishkumar.github.io/portfolio//projectImages/pimage4.png)  
 
 ## Roadmap  
 - [ ] Add support for uploading custom designs.  
