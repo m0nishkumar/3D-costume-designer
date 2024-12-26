@@ -59,5 +59,3 @@ A 3D customization platform where users can design and personalize T-shirts, pan
 - [ ] Enable AR preview for trying designs virtually.    
 
 ---  
-
-The image has been added as a screenshot under the "Screenshot" section. Let me know if you need further adjustments! 🚀
